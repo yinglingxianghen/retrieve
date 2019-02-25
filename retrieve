@@ -91,5 +91,4 @@ def text_reply(msg):
             toUserName=msg['FromUserName'])
 
 itchat.auto_login()
-
 itchat.run()
